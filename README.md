@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Cypress AI Toolkit
+
+Import the Cypress skill with:
+
+```bash
+npx skills add cypress-io/ai-toolkit
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
